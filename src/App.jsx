@@ -1606,7 +1606,7 @@ export default function QuranTranslationLandingPage() {
                     Sana... un mensaje para toda la humanidad
                   </div>
 
-                  <p className="mx-auto mt-4 max-w-[30rem] rounded-[1.4rem] border border-white/10 bg-[rgba(38,67,57,0.55)] px-4 py-4 text-sm leading-7 text-white/78 sm:px-5 sm:text-base sm:leading-8">
+                  <p className="mx-auto mt-4 max-w-[30rem] rounded-[1.4rem] border border-[rgba(212,175,55,0.22)] bg-[linear-gradient(135deg,rgba(74,10,36,0.56)_0%,rgba(22,29,58,0.54)_55%,rgba(110,67,32,0.48)_100%)] px-4 py-4 text-sm leading-7 text-white/82 shadow-[0_10px_24px_rgba(0,0,0,0.24)] sm:px-5 sm:text-base sm:leading-8">
                     Canales de audio y video para traducir los significados del Noble Corán a todos los idiomas del mundo, dentro de un proyecto benéfico que une la belleza de la presentación, la precisión del significado y el espíritu del mensaje.
                   </p>
                 </div>
@@ -1622,13 +1622,13 @@ export default function QuranTranslationLandingPage() {
                   <div className="w-full space-y-4 text-white/72">
                     <a
                       href="mailto:snachannel159@gmail.com"
-                      className="flex items-center justify-center gap-3 break-all rounded-2xl border border-white/10 bg-[#081512]/50 px-4 py-3 text-sm transition hover:bg-white/10 sm:text-base"
+                      className="flex items-center justify-center gap-3 break-all rounded-2xl border border-[rgba(212,175,55,0.22)] bg-[linear-gradient(135deg,rgba(74,10,36,0.44)_0%,rgba(22,29,58,0.40)_55%,rgba(110,67,32,0.34)_100%)] px-4 py-3 text-sm text-white/88 shadow-[0_10px_22px_rgba(0,0,0,0.22)] transition hover:bg-[linear-gradient(135deg,rgba(90,14,44,0.52)_0%,rgba(28,36,74,0.46)_55%,rgba(126,78,38,0.38)_100%)] sm:text-base"
                     >
                       <Mail className="h-4 w-4 shrink-0" style={{ color: ACCENT }} />
                       snachannel159@gmail.com
                     </a>
 
-                    <div className="flex items-center justify-center gap-3 rounded-2xl border border-white/10 bg-[#081512]/50 px-4 py-3 text-sm sm:text-base">
+                    <div className="flex items-center justify-center gap-3 rounded-2xl border border-[rgba(212,175,55,0.22)] bg-[linear-gradient(135deg,rgba(74,10,36,0.44)_0%,rgba(22,29,58,0.40)_55%,rgba(110,67,32,0.34)_100%)] px-4 py-3 text-sm text-white/88 shadow-[0_10px_22px_rgba(0,0,0,0.22)] sm:text-base">
                       <MapPin className="h-4 w-4 shrink-0" style={{ color: ACCENT }} />
                       Amán - Jordania
                     </div>
