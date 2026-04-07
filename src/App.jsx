@@ -1181,12 +1181,12 @@ export default function QuranTranslationLandingPage() {
                             ease: "easeInOut",
                           }
                     }
-                    className="rounded-3xl border border-white/10 bg-white/10 p-3 text-center backdrop-blur-md shadow-[0_6px_16px_rgba(0,0,0,0.12)] sm:p-4"
+                    className="rounded-3xl border border-[rgba(212,175,55,0.24)] bg-[linear-gradient(135deg,rgba(74,10,36,0.82)_0%,rgba(28,46,90,0.78)_55%,rgba(110,67,32,0.74)_100%)] p-3 text-center backdrop-blur-xl shadow-[0_14px_30px_rgba(0,0,0,0.30)] ring-1 ring-white/8 sm:p-4"
                   >
                     <div className="text-xl font-black sm:text-2xl" style={{ color: ACCENT }}>
                       {item.value}
                     </div>
-                    <div className="mt-2 text-xs text-white/70 sm:text-sm">{item.label}</div>
+                    <div className="mt-2 text-xs text-white/80 sm:text-sm">{item.label}</div>
                   </motion.div>
                 ))}
               </motion.div>
